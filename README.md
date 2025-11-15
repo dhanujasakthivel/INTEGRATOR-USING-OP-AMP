@@ -41,10 +41,16 @@ ii)  SQUARE WAVE INPUT
 
 
 ## TABULATION:
+![WhatsApp Image 2025-11-15 at 11 17 28 PM](https://github.com/user-attachments/assets/a0cace96-c263-4c64-9ed1-4b5dd050873b)
+
 
 
 ## GRAPH:
+![WhatsApp Image 2025-11-15 at 11 20 23 PM](https://github.com/user-attachments/assets/f15753e7-eb77-4de5-81b1-ee79bd30619a)
+
+![WhatsApp Image 2025-11-15 at 11 21 05 PM](https://github.com/user-attachments/assets/5c378cd8-b5ee-43f8-af5e-78b006939e1a)
 
 
 ## RESULT:
+Thus an Integrator using op-amp are designed and their performance was successfully tested using op-amp IC741.
 
